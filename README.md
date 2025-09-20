@@ -1,0 +1,1 @@
+Disciplina de Sistemas Nebulosos. Utilizando a IDE GNU Octave. Trata de um ambiente de implementação de código aberto e alternativa ao Matlab. Minha proposta com esse repositório, além do estudo, é tentar trabalhar em paralelo com o Matlab e entender as lacunas dos sistemas. Seja bem-vindx aos Sistemas Nebulosos.

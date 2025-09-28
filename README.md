@@ -11,3 +11,15 @@ Operações com conjuntos Fuzzy:
 - União: max(mu_triangular, mu_bell)
 - Interseção: min(mu_sigmoidal, mu_trapezoidal)
 - Complemento: 1 - mu_triangular
+
+Operadores T-norma
+- Mínimo
+- Algébrico
+- Limitado
+- Drástico
+  
+Operadores T-conorma
+- Máximo
+- Algébrico
+- Limitado
+- Drástico
